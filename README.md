@@ -1,3 +1,4 @@
+<body bg-color = "black">
 <h1 align="center">Hi 👋, I'm Romeo</h1>
 <h3 align="center">Software Engineer Student @ Ontario Tech University</h3>
 <img align = "right" width = "400" alt = "coding" src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
